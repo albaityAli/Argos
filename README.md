@@ -1,1 +1,1 @@
-# argos
+# Argos Checkout Bot
