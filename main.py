@@ -26,7 +26,7 @@ server = {
 
 #solver = recaptchaV2Proxyon()
 #solver.set_verbose(1)
-#solver.set_key("8f87a383689c0f30d96951aaae6afdf4")
+#solver.set_key("Insert API key here")
 #solver.set_website_url("https://www.argos.co.uk/account/login?clickOrigin=header:home:account")
 #solver.set_website_key("6Le7FS0UAAAAAAW85PV8Rq5iAB2jxn63NBHmdw6K")
 #solver.set_proxy_address(proxy_handling.split_proxy(proxy_number)[0])
